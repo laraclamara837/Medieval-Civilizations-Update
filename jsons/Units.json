@@ -115,7 +115,7 @@
 		"upgradesTo": "Gatling Gun",
 		"obsoleteTech": "Industrialization",
 		"promotions": ["Quick Study","Cover I"],
-		"uniques": ["[+50]% Strength <when defending> <when Embarked>"]
+		"uniques": ["[+50]% Strength <when defending> <when [Embarked]>"]
 		"attackSound": "arrow"
 	},
 		{
